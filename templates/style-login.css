@@ -1,0 +1,408 @@
+body {
+
+background-color: white;
+background: url('Rectangle53-dark.svg') no-repeat;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.main-back-block {
+position: absolute;
+}
+
+.up-main-block {
+display: flex;
+position: relative;
+}
+
+.logo-block {
+position: absolute;
+margin-left: 40px;
+margin-top: 30px;
+position: relative;
+display: inline-block;
+color: white;
+}
+
+.block-main-text {
+width:100%
+position: relative;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+
+.turs-block {
+color: #c5c5c5;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+margin-left: 50px;
+margin-top: 50px;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.turs-block:hover {
+color: #fff;
+transform: scale(1.02)
+}
+
+
+
+
+
+
+
+
+
+.last-post {
+padding-top: 42px;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+padding-left: 150px;
+}
+
+.last-post-block {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+margin-left: 50px;
+margin-top: 50px;
+color: #c9c9c9;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.last-post-block:hover {
+color: #fff;
+transform: scale(1.02)
+}
+
+
+
+
+
+
+
+
+
+.main-block {
+margin-top: 50px;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+padding-left: 60px;
+color: #c9c9c9;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.main-block:hover {
+color: #fff;
+transform: scale(1.02)
+
+}
+
+
+.wand-block {
+position: absolute;
+padding-top: 100px;
+margin-left: -360px;
+
+}
+
+
+
+
+.donate {
+}
+
+.donate-a-link-block {
+margin-left: -30px;
+margin-top: 50px;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+padding-left: 70px;
+text-decoration: none;
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+
+
+
+
+
+
+
+
+.community {
+font-family: sans-serif;
+font-size: 17px;
+margin-left: 70px;
+}
+
+.community-block {
+margin-top: 50px;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+margin-left: 50px;
+color: #c9c9c9;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.community-block:hover {
+color: #fff;
+transform: scale(1.02)
+}
+
+
+
+.hotel-block {
+margin-top: 50px;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+margin-left: 50px;
+color: #c9c9c9;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.hotel-block:hover {
+color: #fff;
+transform: scale(1.02)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.enter-text {
+font-family: MBCorpo Text,sans-serif;
+width: 250px;
+font-size: 15px;
+height: 30px;
+color: black;
+margin-top: 45px;
+margin-left: 70px;
+border-radius: 250px;
+text-align: center;
+margin-button: 500px;
+background: rgb(217, 217, 217)
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+
+}
+
+
+.enter-text::placeholder {
+font-size: 10px;
+}
+
+.enter-text:focus {
+width: 350px;
+}
+
+
+
+.people_design-block {
+margin-left: 20px;
+margin-top: 40px;
+}
+
+
+.location_design-block {
+margin-left: 30px;
+margin-top: 40px;
+}
+
+.list-design-block {
+position: absolute;
+margin-top: 40px;
+margin-left: 1680px;
+}
+
+.location_text-block {
+margin-top: 37px;
+font-family: MBCorpo Text,sans-serif;
+font-size: 17px;
+margin-left: 10px;
+color: white;
+text-decoration: none;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+}
+
+.location_text-block:hover {
+color: #c9c9c9;
+}
+
+
+
+
+
+
+
+
+
+
+
+.sign-up-block {
+position: relative;
+}
+
+
+
+.main-background-block {
+position: absolute;
+margin-top: 70px;
+margin-left: 310px;
+}
+
+.enter-text-login-block {
+font-size: 18px;
+position: absolute;
+color: white;
+margin-left: 675px;
+margin-top: 280px;
+font-family: MBCopro, sans-serif;
+}
+
+.enter-login-login-block {
+font-size: 16px;
+position: absolute;
+color: white;
+margin-left: 620px;
+margin-top: 340px;
+font-family: MBCopro, sans-serif;
+}
+
+.logo-block-player {
+position: absolute;
+margin-left: 760px;
+margin-top: 150px;
+}
+
+.enter-login-block {
+background: rgb(21, 23, 29);
+color: white;
+border-radius: 6px;
+height: 40px;
+width: 366px;
+font-size: 14px;
+position: absolute;
+margin-left: 618px;
+margin-top: 365px;
+font-family: MBCopro, sans-serif;
+border: none;
+padding-left: 20px;
+outline: none;
+}
+
+
+.enter-login-block::placeholder {
+color: #5C606D;
+}
+
+
+.enter-password-login-block {
+font-size: 16px;
+position: absolute;
+color: white;
+margin-left: 620px;
+margin-top: 420px;
+font-family: MBCopro, sans-serif;
+}
+
+.enter-password-block {
+background: rgb(21, 23, 29);
+color: white;
+border-radius: 6px;
+height: 40px;
+width: 366px;
+font-size: 14px;
+position: absolute;
+margin-left: 618px;
+margin-top: 447px;
+font-family: MBCopro, sans-serif;
+border: none;
+padding-left: 20px;
+outline: none;
+}
+
+.enter-password-block::placeholder {
+color: #5C606D;
+}
+
+
+.checkbox-text {
+position: absolute;
+font-size: 12px;
+color: white;
+font-family: MBCopro, sans-serif;
+margin-left: 665px;
+margin-top: 505px;
+}
+
+.recovery-password-block {
+position: absolute;
+font-size: 12px;
+color: #9A9FAE;
+font-family: MBCopro, sans-serif;
+margin-left: 880px;
+margin-top: 505px;
+}
+
+
+.background-button-block {
+margin-top: -40px;
+margin-left: -147px;
+position: absolute;
+}
+
+
+.signup-text-button-block {
+width: 366px;
+font-size: 16px;
+height: 48px;
+border-radius: 6px;
+color: white;
+background-color: #2E61D8;
+position: absolute;
+margin-left: 630px;
+margin-top: 560px;
+border: none;
+cursor: pointer;
+}
+
+
+.help-sign-un-text-block {
+position: absolute;
+margin-top: 630px;
+margin-left: 720px;
+color: #9A9FAE;
+font-family: MBCopro, sans-serif;
+font-size: 14px;
+}
+
+
+.register-block-text {
+text-decoration: none;
+color: #fff;
+}
